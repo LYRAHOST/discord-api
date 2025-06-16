@@ -49,8 +49,7 @@ Renomeie o arquivo `.env.example` para `.env` e defina as variáveis:
 ```ini
 DISCORD_TOKEN=seu_token_de_bot
 DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/ID/TOKEN
-SERVER_API=https://api.seuservidor.com/status
-API_KEY=LYRAXXXXXXXXX-XXXXXXXX-XXXXX
+SERVER_API=https://api-server.lyrahost.com.br/ID/TOKEN/
 INTERVAL_MINUTES=5
 ```
 
