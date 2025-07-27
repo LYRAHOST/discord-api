@@ -70,6 +70,11 @@ O bot irá:
 3. Postar no webhook definido em `DISCORD_WEBHOOK_URL` a cada `INTERVAL_MINUTES`.
 
 
+## Agendamento
+
+Defina `INTERVAL_MINUTES` no arquivo `.env` para determinar o intervalo (em minutos) entre as verificações do servidor e os envios para o Discord. O valor padrão é 5 minutos.
+
+
 ## Contribuição
 
 1. Fork este repositório.
